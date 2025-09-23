@@ -17,4 +17,3 @@
 <p class="has-line-data" data-line-start="21" data-line-end="22"><img src="https://github-contributor-stats.vercel.app/api?username=BitSlayer41&amp;limit=5&amp;theme=synthwave&amp;combine_all_yearly_contributions=true" alt=""></p>
 <hr>
 <p class="has-line-data" data-line-start="24" data-line-end="25"><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=BitSlayer41&amp;icon=0&amp;color=0" alt=""></a></p>
-<p class="has-line-data" data-line-start="26" data-line-end="27">&lt;!-- Proudly created with GPRM ( <a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a> ) --&gt;</p>
